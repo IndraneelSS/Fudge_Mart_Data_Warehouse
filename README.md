@@ -1,4 +1,4 @@
-# Cross-Company-Insights: Unveiling Customer Sentiment in Fudgemart and Fudgeflix through a Unified Data Warehouse
+# Insightful Analysis of Customer Sentiment in Fudgemart and Fudgeflix through Data Integration
 
 ## Project Goal
 In merging Fudgemart Inc. and Fudgeflix Inc, we aim to derive actionable insights by consolidating customer feedback ratings into a unified data warehouse. We concentrate on assessing the performance of both organizations within a competitive market. Employing a combination of a Data warehouse using the Kimball approach and Power BI visualization, our aim is to comprehensively analyze each organization's performance and its collective impact. The resulting insights will inform strategic recommendations for performance enhancement, improved customer experience, and expanded market reach.
